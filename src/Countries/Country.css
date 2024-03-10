@@ -1,0 +1,10 @@
+.country {
+    border: 1px solid skyblue;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+}
