@@ -8,3 +8,7 @@
     margin: 1rem;
     padding: 1rem;
 }
+
+.visited {
+    background-color: cadetblue;
+}
